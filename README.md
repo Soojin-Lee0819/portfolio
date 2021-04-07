@@ -3,6 +3,8 @@ This is my personal website I made to share four projects I worked on for Commun
 
 ### [Link to the website](https://soojin-lee0819.github.io/portfolio/).
 
+![alt-text](Images/commlabwebsitemainpg.png)
+
 
 
 ## Direct Link to Project Websites
