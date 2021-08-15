@@ -97,12 +97,12 @@ body{
 #container2 .slideshow-container img{
           
   position:relative;
-  left: 50%;
+  left: 55%;
   transform:translateX(50%);
   max-width: 100%;
   margin-top: 10%;
   max-height: 100%;
-  width: 470px;
+  width: 450px;
   z-index: 99;
 
 }
@@ -266,6 +266,39 @@ footer h4
 }
 
 /*top block of footer i.e. footer part 1*/
+
+
+
+
+/*for social media icons*/
+footer .social
+{
+  padding-bottom: 1px;
+  display: inline-flex;
+  margin-left: 310pt;
+  flex: 0.2;
+
+}
+
+footer .social a
+{
+
+  text-decoration: none;
+  margin: 50px;
+  font-size: 22pt;
+  color:#572D15;
+}
+
+footer .social a:hover
+{
+  color: ivory;
+}
+
+/*bottom part of footer i.e. the copyright section*/
+
+
+
+
 
 
 
